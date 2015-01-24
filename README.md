@@ -1,6 +1,6 @@
 ## Description
 
-#### <run_analysis.R> script creates a tidy dataset from UCI HAR Dataset according to instructions given for the project assigment of Getting and Cleaning data course. The script should be run in the same folder with UCI HAR Dataset which is online available at <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip> with a description at <http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>. The script performs the following steps:
+###### <run_analysis.R> script creates a tidy dataset from UCI HAR Dataset according to instructions given for the project assigment of Getting and Cleaning data course. The script should be run in the same folder with UCI HAR Dataset which is online available at <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip> with a description at <http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>. The script performs the following steps:
 
 
 1. loads the necessary R packages, <dplyr> and <reshape2>
@@ -26,6 +26,6 @@
 
 
 
-## Acknowledgement	 		   		
+##### Acknowledgement	 		   		
 	 	
-#### Author of this script, owner of this github repo, acknowledges the contributors (especially David Hood) of the Getting and Cleaning Data course discussion forums, available on Coursera.  
+###### Author of this script, owner of this github repo, acknowledges the contributors (especially David Hood) of the Getting and Cleaning Data course discussion forums, available on Coursera.  
